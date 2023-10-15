@@ -1,0 +1,21 @@
+{
+  "name": "atmbysauleh",
+  "version": "1.0.0",
+  "description": "This is a Four User ATM Machine Functionality Copying Program.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.4",
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.11",
+    "node-banner": "^1.4.0",
+    "random-int": "^3.0.0"
+  }
+}
